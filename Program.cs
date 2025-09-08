@@ -1,7 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
 //Understand feth
-
+// check if pull master also reflect Dev branch
 //Git hub changes 4  chages by dev 1
 
 //Modification for merging purpose 2
